@@ -2831,7 +2831,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0.7125 -1.9 0)
+			(at 0.9125 -2 0)
 			(layer "F.SilkS")
 			(uuid "b8a21d77-222f-4542-8d45-0980d5003295")
 			(effects
@@ -4221,7 +4221,7 @@
 			(uuid "db6c9926-91d6-410e-81f9-2d9155ae76f2")
 		)
 		(fp_text user "GND"
-			(at 3.0625 5.00625 0)
+			(at 2.4625 4.80625 0)
 			(layer "F.SilkS")
 			(uuid "3bafb9c0-1863-440d-b41e-451b104a993e")
 			(effects
@@ -4232,7 +4232,7 @@
 			)
 		)
 		(fp_text user "MOSI"
-			(at 4.2625 -1.59375 0)
+			(at 4.4625 0.20625 0)
 			(layer "F.SilkS")
 			(uuid "46ba5d79-e226-4585-8e50-ca22cefd16aa")
 			(effects
@@ -4243,7 +4243,7 @@
 			)
 		)
 		(fp_text user "MISO"
-			(at -4.9375 -4.39375 0)
+			(at -4.3375 -2.79375 0)
 			(layer "F.SilkS")
 			(uuid "4819291c-60bc-4c59-b05f-228c8cac698f")
 			(effects
@@ -4254,7 +4254,7 @@
 			)
 		)
 		(fp_text user "VCC"
-			(at 2.4625 -4.39375 0)
+			(at 3.8625 -2.79375 0)
 			(layer "F.SilkS")
 			(uuid "520283ec-71ca-4b4a-aaee-dbed206bf63e")
 			(effects
@@ -4265,7 +4265,7 @@
 			)
 		)
 		(fp_text user "SCK"
-			(at -5.3375 -1.79375 0)
+			(at -4.3375 1.40625 0)
 			(layer "F.SilkS")
 			(uuid "63cb6044-ed08-43ea-8617-956fbafceffd")
 			(effects
@@ -4276,7 +4276,7 @@
 			)
 		)
 		(fp_text user "RST"
-			(at -5.1375 5.40625 0)
+			(at -1.7375 5.00625 0)
 			(layer "F.SilkS")
 			(uuid "67138ece-2e14-4c3b-8534-4a0abed4e992")
 			(effects
@@ -4560,7 +4560,7 @@
 		(descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 		(tags "SPST Button Switch")
 		(property "Reference" "SW1"
-			(at 0 -3.6 0)
+			(at -2.69375 -3.84375 0)
 			(layer "F.SilkS")
 			(uuid "6d6e2e06-2dee-4307-8c26-c63351dc73ce")
 			(effects
